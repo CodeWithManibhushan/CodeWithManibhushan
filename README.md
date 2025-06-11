@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Manibhushan Kumar
 
-<!--
-**CodeWithManibhushan/CodeWithManibhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at GNDEC Ludhiana  
+🧠 Machine Learning & Data Science Enthusiast  
+💻 Python Programmer | GitHub Beginner  
+📚 Currently Learning: Python, DSA, Git, ML Basics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   🔧 Skills
+- Programming: Python, HTML, CSS, JavaScript (Basics)
+- Tools: Git & GitHub, VS Code
+- Interests: Machine Learning, Data Analysis
+
+---
+
+   📂 Projects
+- [python-practice](https://github.com/CodeWithManibhushan/python-practice) — Basic Python programs
+
+---
+
+   🌐 Connect with Me
+- 📫 Email: [manibhushan.aarya466@gmail.com](mailto:manibhushan.aarya466@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manibhushan-kumar-1067692b6)
+- 💻 [GitHub](https://github.com/CodeWithManibhushan)
+
+---
+
+> I’m building my skills one commit at a time!
